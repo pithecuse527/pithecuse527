@@ -9,4 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Mainly Doing:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=Algorithmic-Design-and-Techniques-Edx)](https://github.com/pithecuse527/Algorithmic-Design-and-Techniques-Edx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=Operating-Systems-HYU)](https://github.com/pithecuse527/Operating-Systems-HYU)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=welikeheon&repo=little-by-little)](https://github.com/welikeheon/little-by-little)
