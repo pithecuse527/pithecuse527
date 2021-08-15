@@ -2,7 +2,7 @@
 
 - 🎓  I'm currently pursuing a Computer Science Bachelor's degree at Hanyang University 🇰🇷
 - 🏢  I have an experienced in: Full Stack Developer at Republic of Korea Ariforce ✈️
-- 🏫  I am currently assisting my students as a computer science tutor at Hanyang University
+- 👨‍💻  I'm doing my internship at the Georgia State University as an undergraduate research student 🇺🇸
 - ⚡ Fun fact: Studied Computer Science program in Canada for a while 🇨🇦 and still looking forward to go back for Master's degree
 
 ### Languages:
