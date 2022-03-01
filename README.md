@@ -16,5 +16,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=Cracking-Coding-Interview&theme=github_dark)](https://github.com/pithecuse527/Cracking-Coding-Interview)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=ML-Study&theme=github_dark)](https://github.com/pithecuse527/ML-Study)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=ML-Study&theme=github_dark)](https://github.com/pithecuse527/ML-Study)
