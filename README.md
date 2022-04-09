@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Studied Computer Science program in Canada for a while 🇨🇦, and still looking forward to go back for Master's degree
 
 ### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pithecuse527&layout=compact&theme=dark&hide=Jupyter%20Notebook,C#)](https://github.com/pithecuse527/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pithecuse527&layout=compact&theme=dark&hide=Jupyter%20Notebook,C%#)](https://github.com/pithecuse527/github-readme-stats)
 
 ### Mainly Doing:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=Tap-Position-Inference&theme=aura_dark)](https://github.com/pithecuse527/Tap-Position-Inference)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pithecuse527&repo=little-by-little&theme=github_dark)](https://github.com/pithecuse527/little-by-little)
